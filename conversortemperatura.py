@@ -44,13 +44,13 @@ while escolha !=13:
   elif escolha == 5:
                 print(kelfah(int(input('Insira o Valor em K(Kelvin) para ser convertido em °F(Fahrenheit): '))))
   elif escolha == 6:
-                print(kelre(int(input('Insira o valor em °C(Celsius) para ser convertido em °Ré(Réaumur)'))))
+                print(kelre(int(input('Insira o valor em K(Kelvin) para ser convertido em °Ré(Réaumur)'))))
   elif escolha == 7:
                 print(fahcels(int(input('Insira o Valor em °F(Fahrenheit) para ser convertido em °C(Celsius): '))))
   elif escolha == 8:
                 print(fahkel(int(input('Insira o Valor em °F(Fahrenheit) para ser convertido em K(Kelvin): '))))
   elif escolha == 9:
-                print(fahre(int(input('Insira o valor em °C(Celsius) para ser convertido em °Ré(Réaumur)' ))))
+                print(fahre(int(input('Insira o valor em °F(Fahrenheit) para ser convertido em °Ré(Réaumur)' ))))
   elif escolha == 10:
                 print(recels(int(input('Insira o valor em °Ré(Réaumur) para ser convertido em °C(Celsius)'))))
   elif escolha == 11:
