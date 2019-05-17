@@ -1,3 +1,5 @@
 # conversortemperatura
-Fahrenheit,Réaumur,Celsius e Kelvin 
-Esse é um programa para calcular a temperatura, de uma para outra em python.
+Nesse programa voce tem a possibilidade de fazer as conversão de uma temperatura para outra entre  elas são total de 4:
+Fahrenheit,Réaumur,Celsius e Kelvin.
+o projeto ainda não é o final tenho feedback com a nota 7...
+
