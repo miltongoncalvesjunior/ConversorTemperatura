@@ -24,7 +24,7 @@ def kelre(K):  #Kelvin para Réamur
     return ('RESULTADO...\n{R:.2f}°Ré'.format(R=R))
 
 def fahcels(F):  # Fahrenheit para Celsius
-    C = (F - 32 / 1.8)
+    C =  (F-32)/1.8
     return ('RESULTADO....\n{C:.2f}°C'.format(C=C))
 
 def fahkel(F):  # Fahrenheit para Kelvin
